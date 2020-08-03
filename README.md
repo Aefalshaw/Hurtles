@@ -1,2 +1,2 @@
 # Hurtles
-Group Project using Unity / C#
+Group Project using Unity / C# - Coding Dojo Coding Bootcamp
